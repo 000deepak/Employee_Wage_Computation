@@ -1,4 +1,4 @@
-public class Wages_For_Max_Time {
+public class UC6_Wages_For_Max_Time {
 
 
     private static final int FULL_TIME = 1;
