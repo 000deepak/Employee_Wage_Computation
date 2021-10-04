@@ -1,6 +1,4 @@
 public class UC3_Part_Time_Wage {
-
-
     static final int FULL_TIME = 1;
     static final int PART_TIME = 2;
 
