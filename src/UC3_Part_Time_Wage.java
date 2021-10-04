@@ -1,4 +1,4 @@
-public class Part_Time_Wage {
+public class UC3_Part_Time_Wage {
 
 
     static final int FULL_TIME = 1;

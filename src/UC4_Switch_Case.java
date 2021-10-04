@@ -1,4 +1,4 @@
-public class Switch_Case {
+public class UC4_Switch_Case {
 
 
     static int FULL_TIME = 1;
